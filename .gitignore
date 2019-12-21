@@ -15,6 +15,7 @@
 
 #Remove Virtual Environment
 **/venv
+TradeBot/venv/*
 
 # Build results
 [Dd]ebug/
