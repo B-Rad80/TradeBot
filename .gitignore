@@ -14,7 +14,7 @@
 *.userprefs
 
 #Remove Virtual Environment
-**/venv
+**/venv/
 TradeBot/venv/*
 
 # Build results
